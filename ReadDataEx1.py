@@ -1,0 +1,5 @@
+print("Enter any two numeric values:")
+a=input()
+b=input()
+print("val of a = {}".format(a))
+print("val of b = {}".format(b))
